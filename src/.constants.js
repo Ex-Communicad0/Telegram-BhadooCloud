@@ -1,5 +1,5 @@
 module.exports = Object.freeze({
-  TOKEN: '816217087:AAHI8wArLovmNjYzdo2X_2Smr1s-jYcMqHI', //required
+  TOKEN: '982699549:AAFtKP74AEL_qzrKZoB6z0xWFa87P5oDU40', //required
   ARIA_SECRET: 'mlwdl', //change as per needs.
   ARIA_DOWNLOAD_LOCATION: '/app/downloads)', //-leave as it is
   INDEX_DOMAIN: 'https://bot.mlwdl.workers.dev/', // replace with your index domain. use https://github.com/ParveenBhadooOfficial/go-drive
